@@ -1,0 +1,1 @@
+Aqui foram realizados exercícios usando a ferramenta disponibilizada pelo app.diagrams.net
